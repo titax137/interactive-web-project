@@ -4,6 +4,8 @@ A real-time interactive visual project using webcam hand tracking, glowing beams
 
 ## Demo
 
+## Demo
+
 ![Demo](demo.gif)
 
 ## Features
