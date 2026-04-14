@@ -15,4 +15,4 @@ A real-time interactive visual project using webcam hand tracking, glowing beams
 
 ## Run Locally
 
-Open with Live Server in VS Code.
+Open with Live Server in VS Code.# interactive-web-project
